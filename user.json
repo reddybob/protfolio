@@ -16,9 +16,7 @@
         {
             "name":"LinkedIn",
             "icon":"https://img.icons8.com/?size=100&id=13930&format=png&color=000000",
-            "url":"https://www.linkedin.com/in/reddy-babu-266ab6341
-
-People you m"
+            "url":"https://www.linkedin.com/in/reddy-babu-266ab6341"
         },
         {
             "name":"GitHub",
@@ -30,7 +28,7 @@ People you m"
         {"location":"Vadodara, India"},
         {"email":"reddy0410a@gmail.com"}
     ],
-    "resume":"/",
+    "resume":"/REDDYRESUME.pdf",
     "about":"I am a Full Stack Developer with 2 years of experience in developing web applications. I have a strong knowledge of HTML, CSS, JavaScript, React, Node.js, and MongoDB. I am passionate about learning new technologies and building new projects.",
     "projects":[
         {
