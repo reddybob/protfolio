@@ -1,34 +1,36 @@
 {
-    "name":"Seshu Sai",
+    "name":"Reddy Babu",
     "tags":["Developer","Programmer","API Developer","Web Scraper"],
-    "image":"https://avatars.githubusercontent.com/u/105602908?v=4",
+    "image":"SVV02243_resize.JPG",
     "social":[
         {
             "name":"Facebook",
             "icon":"https://img.icons8.com/?size=100&id=118568&format=png&color=000000",
-            "url":"https://www.facebook.com/iseshu"
+            "url":"https://www.facebook.com/Reddy Babu"
         },
         {
             "name":"Twitter",
             "icon":"https://img.icons8.com/?size=100&id=xWVjuc9hryql&format=png&color=000000",
-            "url":"https://twitter.com/iamseshu143"
+            "url":"https://twitter.com/@ReddyBa77298058"
         },
         {
             "name":"LinkedIn",
             "icon":"https://img.icons8.com/?size=100&id=13930&format=png&color=000000",
-            "url":"https://www.linkedin.com/in/seshu-sai-9b0b3b1b4/"
+            "url":"https://www.linkedin.com/in/reddy-babu-266ab6341
+
+People you m"
         },
         {
             "name":"GitHub",
             "icon":"https://img.icons8.com/?size=100&id=3tC9EQumUAuq&format=png&color=FA5252",
-            "url":"https://github.com/iseshu"
+            "url":"https://github.com/reddybob"
         }
     ],
     "contact":[
         {"location":"Vadodara, India"},
-        {"email":"saiseshu599@gmail.com"}
+        {"email":"reddy0410a@gmail.com"}
     ],
-    "resume":"https://drive.google.com/file/d/1dpp4X0NIoJ9r8-aLQ5g-PsbdIlzNS2Vn/view?usp=sharing",
+    "resume":"/",
     "about":"I am a Full Stack Developer with 2 years of experience in developing web applications. I have a strong knowledge of HTML, CSS, JavaScript, React, Node.js, and MongoDB. I am passionate about learning new technologies and building new projects.",
     "projects":[
         {
