@@ -1,0 +1,55 @@
+{
+    "name":"Seshu Sai",
+    "tags":["Developer","Programmer","Engineer"],
+    "image":"https://avatars.githubusercontent.com/u/105602908?v=4",
+    "social":[
+        {
+            "name":"Facebook",
+            "icon":"https://img.icons8.com/?size=100&id=118568&format=png&color=000000",
+            "url":"https://www.facebook.com/iseshu"
+        },
+        {
+            "name":"Twitter",
+            "icon":"https://img.icons8.com/?size=100&id=xWVjuc9hryql&format=png&color=000000",
+            "url":"https://twitter.com/iamseshu143"
+        },
+        {
+            "name":"LinkedIn",
+            "icon":"https://img.icons8.com/?size=100&id=13930&format=png&color=000000",
+            "url":"https://www.linkedin.com/in/seshu-sai-9b0b3b1b4/"
+        },
+        {
+            "name":"GitHub",
+            "icon":"https://img.icons8.com/?size=100&id=3tC9EQumUAuq&format=png&color=FA5252",
+            "url":"https://github.com/iseshu"
+        }
+    ],
+    "contact":[
+        {"location":"Vadodara, India"},
+        {"email":"saiseshu599@gmail.com"}
+    ],
+    "resume":"https://drive.google.com/file/d/1",
+    "about":"I am a Full Stack Developer with 2 years of experience in developing web applications. I have a strong knowledge of HTML, CSS, JavaScript, React, Node.js, and MongoDB. I am passionate about learning new technologies and building new projects.",
+    "projects":[
+        {
+            "name":"Movierulz API",
+            "description":"An unofficial API for Movierulz website",
+            "url":"https://github.com/iseshu/movierulz"
+        },
+        {
+            "name":"TrackMyAttendance",
+            "description":"This website allows users to securely enter their credentials and retrieve their attendance data via an open-source API. User credentials are stored locally in the browser's local storage, enabling a seamless experience on subsequent visits where they can directly view their attendance without re-entering their details.",
+            "url":"https://github.com/iseshu/TrackMyAttendance"
+        },
+        {
+            "name":"Flames Calculator",
+            "description":"Explore the captivating FLAMES algorithm through our interactive website, crafted with HTML, CSS, and Python scripts.",
+            "url":"https://github.com/iseshu/flames-calculator"
+        },
+        {
+            "name":"Mdisk Desktop",
+            "description":"A desktop application for Mdisk streaming service",
+            "url":"https://github.com/iseshu/mdisk-desktop-script"
+        }
+    ]
+}

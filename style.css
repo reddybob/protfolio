@@ -1,0 +1,184 @@
+/* General Styles */
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background: black;
+  color: white;
+}
+
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 20px;
+  position: relative;
+}
+
+/* Header */
+.header {
+  text-align: center;
+  margin-bottom: 40px;
+}
+
+.header img {
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  margin-bottom: 20px;
+  border: 3px solid #00aaff;
+}
+
+.header h1 {
+  font-size: 2.5rem;
+}
+
+.typewriter {
+  font-size: 1.5rem;
+  color: #00aaff;
+  margin-top: 10px;
+}
+
+/* Social Links */
+.social {
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+  margin: 20px 0;
+}
+
+.social a {
+  text-decoration: none;
+  color: white;
+  font-size: 1rem;
+  transition: transform 0.3s ease;
+}
+
+.social img {
+  width: 30px;
+  height: 30px;
+}
+
+/* About Section */
+.about {
+  text-align: center;
+  margin-bottom: 40px;
+}
+
+/* Projects Section */
+.projects-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  gap: 20px;
+}
+
+.project {
+  background: #1a1a1a;
+  border: 1px solid #333;
+  padding: 15px;
+  border-radius: 10px;
+  text-align: center;
+  transition: transform 0.2s;
+}
+
+.project:hover {
+  transform: scale(1.05);
+}
+
+.project h3 {
+  font-size: 1.2rem;
+}
+
+.project p {
+  font-size: 0.9rem;
+  color: #aaa;
+}
+
+.project button {
+  background: #00aaff;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background 0.2s;
+}
+
+.project button:hover {
+  background: #008ecc;
+}
+
+/* Contact Section */
+.contact {
+  text-align: center;
+}
+
+.contact div {
+  margin-bottom: 10px;
+}
+
+/* Resume Button (Below Contact Section) */
+.resume-container {
+  text-align: center;
+  margin-top: 20px;
+}
+
+.resume-button {
+  background: #00aaff;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 20px;
+  font-size: 1rem;
+  cursor: pointer;
+  transition: background 0.3s;
+}
+
+.resume-button:hover {
+  background: #008ecc;
+}
+
+/* Theme Toggle Button (Top-Right) */
+.theme-toggle {
+  position: absolute;
+  top: 20px;
+  right: 20px;
+  background: transparent;
+  border: none;
+  cursor: pointer;
+}
+
+.theme-toggle img {
+  width: 30px;
+  height: 30px;
+}
+
+/* Light Mode Styles */
+body.light-mode {
+  background: white;
+  color: black;
+}
+
+body.light-mode .header img {
+  border: 3px solid #ffa500;
+}
+
+body.light-mode .typewriter {
+  color: #ffa500;
+}
+
+body.light-mode .project {
+  background: #f9f9f9;
+  border: 1px solid #ccc;
+}
+
+body.light-mode .project button {
+  background: #ffa500;
+  color: black;
+}
+
+body.light-mode .resume-button {
+  background: #ffa500;
+}
+
+body.light-mode .resume-button:hover {
+  background: #cc8400;
+}
